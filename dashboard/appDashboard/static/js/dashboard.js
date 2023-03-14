@@ -13,7 +13,7 @@
     data: {
       labels: [
         'Sunday',
-        'Monday',
+        'Monday',   
         'Tuesday',
         'Wednesday',
         'Thursday',
