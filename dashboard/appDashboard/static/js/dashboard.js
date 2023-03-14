@@ -20,7 +20,7 @@
         'Friday',
         'Saturday'
       ],
-      datasets: [{
+      datasets: [{ 
         data: [
           15339,
           21345,
